@@ -17,7 +17,7 @@ public class MoneyDatabase extends Validation
 	String queryRemainigBalance;
 	String selectQuery;
 	
-	/*static block i consider, Because when we execute the program first static blocks will execute.
+	/* consider static, Because when we execute the program first static blocks will execute.
 	 * when we execute the program first it will connect to jdbc.*/
 	static
 	{
